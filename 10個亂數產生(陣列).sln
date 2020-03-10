@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "10個亂數產生(陣列)", "10個亂數產生(陣列)\10個亂數產生(陣列).vbproj", "{CE02A5A6-C7C3-429F-92CC-08C9AE5EF859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE02A5A6-C7C3-429F-92CC-08C9AE5EF859}.Debug|x86.ActiveCfg = Debug|x86
+		{CE02A5A6-C7C3-429F-92CC-08C9AE5EF859}.Debug|x86.Build.0 = Debug|x86
+		{CE02A5A6-C7C3-429F-92CC-08C9AE5EF859}.Release|x86.ActiveCfg = Release|x86
+		{CE02A5A6-C7C3-429F-92CC-08C9AE5EF859}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
